@@ -1,20 +1,20 @@
 {
   "name": "codice-sconto-shein",
   "version": "1.0.0",
-  "description": "Fetch automat de coduri de reducere Shein de pe shopilo.it",
+  "description": "Recupero automatico di codici sconto Shein da shopilo.it",
   "main": "index.js",
   "keywords": [
-    "cod-reducere",
-    "cod-reducere-shein",
+    "codice-sconto",
+    "codice-sconto-shein",
     "voucher-shein",
-    "cupon-shein",
-    "reduceri",
+    "coupon-shein",
+    "sconti",
     "shopilo",
-    "cupoane"
+    "coupon"
   ],
   "author": "shopilo-it",
   "license": "MIT",
-  "homepage": "https://shopilo.it/magazin/shein.com",
+  "homepage": "https://shopilo.it/negozi/shein.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/shopilo-it/codice-sconto-shein.git"
